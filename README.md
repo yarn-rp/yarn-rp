@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./doc/Mobile.png" alt="CreateThrive Flutter"/>
+  <img src="https://user-images.githubusercontent.com/61998848/207602936-8912b6f1-6304-4733-ad2b-bd7404d30aaa.PNG" alt="Tech stack"/>
 </p>
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">A passionate full stack developer</h3>
