@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yarn-rp/yarn-rp/assets/61998848/f9838c82-2856-4b0e-b54d-1e735d53fbcb" alt="Tech stack"/>
+  <img src="https://github.com/yarn-rp/yarn-rp/blob/main/doc/Mobile.PNG" alt="Tech stack"/>
 </p
 
 <h1 align="center">Hi 👋, I'm Yan</h1>
