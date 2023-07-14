@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61998848/207602936-8912b6f1-6304-4733-ad2b-bd7404d30aaa.PNG" alt="Tech stack"/>
-</p>
+  <img src="https://github.com/yarn-rp/yarn-rp/assets/61998848/f9838c82-2856-4b0e-b54d-1e735d53fbcb" alt="Tech stack"/>
+</p
+
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
